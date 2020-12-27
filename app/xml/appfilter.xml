@@ -51,7 +51,10 @@
 	<calendar component="ComponentInfo{com.skuld.calendario/com.skuld.calendario.ui.home.activity.MainActivity}" drawable="calendar_"/>
 	<calendar component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" drawable="calendar_"/>
 	<calendar component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Grey_black}" drawable="calendar_"/>
-
+	
+	<!---notion-->
+	<item component="ComponentInfo{notion.id/notion.local.id.MainActivity}" drawable="notion" />
+	
 	<!---browser-->
 	<item component=":BROWSER" drawable="browser" />
 
